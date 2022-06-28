@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Eagle+Lake&display=swap');
+
+/*font-family: 'Eagle Lake', cursive;*/
+body {
+   overflow: hidden;
+  min-height:100vh;
+}
+
+.box1 {
+   background: linear-gradient(purple, blue);
+   height: 100vh;
+}
+
+.box2 {
+   background: linear-gradient(blue, purple);
+   height: 100vh;
+}
+
+.myPic{
+   background-image: url("images/72652846_954552084924013_1809783154804385856_n.jpg");
+   background-size: 300px 300px;
+   min-height: 300px;
+   min-width: 300px;
+   background-repeat: no-repeat;
+   border: 3px solid yellow;
+   
+}
+
+.spinnerclass {
+   position: absolute;
+   top: 5vh;
+   left: 55vw;
+   height: 4rem;
+   width: 4rem;
+
+}
+.cloud1{
+   background-image: url("images/—Pngtree—clouds_5626530.png");
+   background-size: 25vw 25vh;
+   min-height: 25vh;
+   min-width: 25vw;
+   background-repeat: no-repeat;
+   object-fit: contain;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   position: absolute;
+   top: 7vh;
+   left: 20vw;
+
+}
+.cloud2{
+   background-image: url("images/—Pngtree—clouds_5626530.png");
+   background-size: 25vw 25vh;
+   min-height: 25vh;
+   min-width: 25vw;
+   background-repeat: no-repeat;
+   object-fit: contain;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   position: absolute;
+   top: 25vh;
+   left: 2vw;
+
+}
+.cloud3{
+   background-image: url("images/—Pngtree—clouds_5626530.png");
+   background-size: 25vw 25vh;
+   min-height: 25vh;
+   min-width: 25vw;
+   background-repeat: no-repeat;
+   object-fit: contain;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   position: absolute;
+   top: 50vh;
+   left: 2vw;
+
+}
+.cloud4{
+   background-image: url("images/—Pngtree—clouds_5626530.png");
+   background-size: 25vw 25vh;
+   min-height: 25vh;
+   min-width: 25vw;
+   background-repeat: no-repeat;
+   object-fit: contain;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   position: absolute;
+   top: 70vh;
+   left: 16vw;
+
+
+}
+.cloud5{
+  
+   background-image: url("images/image.png");
+   background-size: 25vw 25vh;
+   min-height: 25vh;
+   min-width: 25vw;
+   background-repeat: no-repeat;
+   object-fit: contain;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   position: absolute;
+   top: 7vh;
+   left: 55vw;
+
+}
+.cloud6{
+   background-image: url("images/image.png");
+   background-size: 25vw 25vh;
+   min-height: 25vh;
+   min-width: 25vw;
+   background-repeat: no-repeat;
+   object-fit: contain;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   position: absolute;
+   top: 25vh;
+   left: 75vw;
+
+}
+.cloud7{
+   background-image: url("images/image.png");
+   background-size: 25vw 25vh;
+   min-height: 25vh;
+   min-width: 25vw;
+   background-repeat: no-repeat;
+   object-fit: contain;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   position: absolute;
+   top: 50vh;
+   left:70vw;
+
+}
+.cloud8{
+   background-image: url("images/image.png");
+   background-size: 25vw 25vh;
+   min-height: 25vh;
+   min-width: 25vw;
+   background-repeat: no-repeat;
+   object-fit: contain;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   position: absolute;
+   top: 70vh;
+   left: 52vw;
+
+}
+
+.modalTitle1{
+   background: linear-gradient(purple, blue);
+}
+.modalBody{
+   background: linear-gradient(blue, purple);
+   
+}
+.iconSize{
+   height: 4vh;
+   width: 4vw;
+}
+
+
+/*css for fonts*/
+.personalFont {
+   font-family: 'Eagle Lake', cursive;
+   
+   overflow-wrap: break-word;
+   font-weight: bold;
+  
+   
+}
+
+.cvHover:hover{
+   box-shadow: 5px 10px  rgb(158, 93, 158);
+}
+.textDark{
+   color: yellow;
+   text-decoration: none;
+   margin-top: 2rem;
+}
+
+/*img {
+  -webkit-box-reflect:right;
+}*/
